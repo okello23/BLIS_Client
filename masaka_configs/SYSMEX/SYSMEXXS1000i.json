@@ -1,0 +1,61 @@
+{
+   "LFTS":{
+         "measures":[
+		{
+		    "blis_measure_id":"307",
+		    "equipment_measure_name":"ALB"       
+		},
+		{
+		    "blis_measure_id":"134",
+		    "equipment_measure_name":"APDEA"       
+		},
+		{
+		    "blis_measure_id":"138",
+		    "equipment_measure_name":"Bilda"       
+		},
+		{
+		    "blis_measure_id":"132",
+		    "equipment_measure_name":"Bilta"       
+		},
+		{
+		    "blis_measure_id":"135",
+		    "equipment_measure_name":"GOT"       
+		},
+		{
+		   "blis_measure_id":"137",
+		    "equipment_measure_name":"GPT"       
+		},
+		{
+		   "blis_measure_id":"139",
+		    "equipment_measure_name":"PROT"       
+		}
+        ]
+   },
+   "RFTS":{
+        "measures":[
+        {
+           "blis_measure_id":"146",
+           "equipment_measure_name":"GREAA"        
+        },
+        {
+           "blis_measure_id":"147",
+           "equipment_measure_name":"UREAVV"        
+        }
+        
+        ]
+        
+   },
+   "LIPID PROFILE":{
+        "measures":[
+        {
+           "blis_measure_id":"347",
+           "equipment_measure_name":"TG"        
+        },
+        {
+           "blis_measure_id":"342",
+           "equipment_measure_name":"LDL"        
+        }
+        
+        ]
+   }
+}

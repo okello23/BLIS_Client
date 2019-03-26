@@ -1,0 +1,1884 @@
+2019-03-14 15:37:37: SYSMEX XS-1000i handler started...
+2019-03-14 15:37:37: Starting Server socket on port 5150
+2019-03-14 15:37:37: Waiting for Equipment connection...
+2019-03-14 15:37:37: Listening on port 5150...
+2019-03-14 15:37:43: SYSMEX XS-1000i is now Connected...
+2019-03-14 15:37:43: Client instance created
+2019-03-14 15:37:43: Client instance created
+2019-03-14 15:37:43: Client thread has started
+2019-03-14 15:37:43: Client thread has started
+2019-03-14 16:03:16: SYSMEX XS-1000i handler stopped
+2019-03-14 16:03:16: Socket closed
+2019-03-14 16:03:16: Socket closed
+2019-03-14 16:03:17: SYSMEX XS-1000i handler started...
+2019-03-14 16:03:17: Starting Server socket on port 5150
+2019-03-14 16:03:17: Waiting for Equipment connection...
+2019-03-14 16:03:17: Listening on port 5150...
+2019-03-14 16:03:42: SYSMEX XS-1000i is now Connected...
+2019-03-14 16:03:42: Client instance created
+2019-03-14 16:03:42: Client instance created
+2019-03-14 16:03:42: Client thread has started
+2019-03-14 16:03:42: Client thread has started
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 2P|1
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 3C|1
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 4O|1||^^             10^A|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 5C|1
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 6R|1|^^^^WBC^1|4.47|10*3/uL||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 7R|2|^^^^RBC^1|5.51|10*6/uL||H||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 0R|3|^^^^HGB^1|12.1|g/dL||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 1R|4|^^^^HCT^1|36.1|%||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 2R|5|^^^^MCV^1|65.5|fL||L||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 3R|6|^^^^MCH^1|22.0|pg||L||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 4R|7|^^^^MCHC^1|33.5|g/dL||N||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 5R|8|^^^^PLT^1|61|10*3/uL||W||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 6R|9|^^^^NEUT%^1|71.7|%||W||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 7R|10|^^^^LYMPH%^1|20.8|%||W||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 0R|11|^^^^MONO%^1|6.7|%||W||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 1R|12|^^^^EO%^1|0.4|%||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 2R|13|^^^^BASO%^1|0.4|%||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 3R|14|^^^^NEUT#^1|3.20|10*3/uL||W||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 4R|15|^^^^LYMPH#^1|0.93|10*3/uL||W||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 5R|16|^^^^MONO#^1|0.30|10*3/uL||W||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 6R|17|^^^^EO#^1|0.02|10*3/uL||N||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 7R|18|^^^^BASO#^1|0.02|10*3/uL||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 0R|19|^^^^RDW-SD^1|37.7|fL||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 1R|20|^^^^RDW-CV^1|16.0|%||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 2R|21|^^^^PDW^1|----|fL||A||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 3R|22|^^^^MPV^1|----|fL||A||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 4R|23|^^^^P-LCR^1|----|%||A||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 5R|24|^^^^PCT^1|----|%||A||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 6R|25|^^^^Microcytosis||||A||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 7R|26|^^^^PLT_Abn_Distribution||||A||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 0R|27|^^^^Blasts?|20|||||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 1R|28|^^^^Immature_Gran?|50|||||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 2R|29|^^^^Left_Shift?|10|||||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 3R|30|^^^^NRBC?|0|||||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 4R|31|^^^^Atypical_Lympho?|130|||A||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 5R|32|^^^^Abn_Lympho?|0|||||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 6R|33|^^^^RBC_Agglutination?|50|||||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 7R|34|^^^^Turbidity/HGB_Interference?|90|||||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 0R|35|^^^^Iron_Deficiency?|90|||||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 1R|36|^^^^HGB_Defect?|90|||||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 2R|37|^^^^Fragments?|0|||||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 3R|38|^^^^PLT_Clumps?|10|||||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 4R|39|^^^^Positive_Morph||||A||||||20190313161336
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 5R|40|^^^^SCAT_DIFF|PNG&R&20190314&R&2019_03_13_16_13_10_DIFF.PNG|||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 6R|41|^^^^DIST_RBC|PNG&R&20190314&R&2019_03_13_16_13_10_RBC.PNG|||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 7R|42|^^^^DIST_PLT|PNG&R&20190314&R&2019_03_13_16_13_10_PLT.PNG|||N||||||20190313161336
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 0L|1|N
+2019-03-14 16:06:52: Message found in sending queue
+2019-03-14 16:06:52: sent successfully
+2019-03-14 16:06:52: New message recieved
+2019-03-14 16:06:52: 
+2019-03-14 16:06:52: QC or BACKGROUND CHECK information Skipped
+2019-03-14 16:06:52: Socket closed
+2019-03-14 16:06:52: SYSMEX XS-1000i handler stopped
+2019-03-14 16:06:52: SYSMEX XS-1000i handler started...
+2019-03-14 16:06:52: Starting Server socket on port 5150
+2019-03-14 16:06:52: Socket closed
+2019-03-14 16:06:52: Waiting for Equipment connection...
+2019-03-14 16:06:52: Listening on port 5150...
+2019-03-14 16:07:42: SYSMEX XS-1000i is now Connected...
+2019-03-14 16:07:42: Client instance created
+2019-03-14 16:07:42: Client instance created
+2019-03-14 16:07:42: Client thread has started
+2019-03-14 16:07:42: Client thread has started
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 2P|1|||21956|^SALIM ABDUL^RAHMAN|||U|||||||||||||||||^^^PAED  WD 1
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 3C|1
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 4O|1||^^          21956^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 5C|1
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 6R|1|^^^^WBC^1|10.09|10*3/uL||N||||||20190314162059
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 7R|2|^^^^RBC^1|3.86|10*6/uL||N||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 0R|3|^^^^HGB^1|9.1|g/dL||N||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 1R|4|^^^^HCT^1|27.3|%||N||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 2R|5|^^^^MCV^1|70.7|fL||L||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 3R|6|^^^^MCH^1|23.6|pg||L||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 4R|7|^^^^MCHC^1|33.3|g/dL||N||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 5R|8|^^^^PLT^1|698|10*3/uL||H||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 6R|9|^^^^RDW-SD^1|43.0|fL||N||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 7R|10|^^^^RDW-CV^1|17.8|%||H||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 0R|11|^^^^PDW^1|8.9|fL||L||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 1R|12|^^^^MPV^1|8.5|fL||L||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 2R|13|^^^^P-LCR^1|13.3|%||N||||||20190314162059
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 3R|14|^^^^PCT^1|0.59|%||H||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 4R|15|^^^^Anemia||||A||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 5R|16|^^^^Thrombocytosis||||A||||||20190314162059
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 6R|17|^^^^RBC_Agglutination?|50|||||||||20190314162059
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 7R|18|^^^^Turbidity/HGB_Interference?|90|||||||||20190314162059
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 0R|19|^^^^Iron_Deficiency?|90|||||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 1R|20|^^^^HGB_Defect?|80|||||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 2R|21|^^^^Fragments?|20|||||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 3R|22|^^^^PLT_Clumps(S)?|10|||||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 4R|23|^^^^Positive_Count||||A||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 5R|24|^^^^DIST_RBC|PNG&R&20190314&R&2019_03_14_16_20_21956_RBC.PNG|||N||||||20190314162059
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 6R|25|^^^^DIST_PLT|PNG&R&20190314&R&2019_03_14_16_20_21956_PLT.PNG|||N||||||20190314162059
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 7R|26|^^^^DIST_WBC|PNG&R&20190314&R&2019_03_14_16_20_21956_WBC.PNG|||N||||||20190314162059
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 0L|1|N
+2019-03-14 16:23:33: Message found in sending queue
+2019-03-14 16:23:33: New message recieved
+2019-03-14 16:23:33: 
+2019-03-14 16:23:33: sent successfully
+2019-03-14 16:23:37: 
+Results with Code: 21956 sent to BLIS sucessfully
+2019-03-14 16:23:37: SYSMEX XS-1000i handler stopped
+2019-03-14 16:23:37: Socket closed
+2019-03-14 16:23:37: Socket closed
+2019-03-14 16:23:37: SYSMEX XS-1000i handler started...
+2019-03-14 16:23:37: Starting Server socket on port 5150
+2019-03-14 16:23:37: Waiting for Equipment connection...
+2019-03-14 16:23:37: Listening on port 5150...
+2019-03-14 16:23:42: SYSMEX XS-1000i is now Connected...
+2019-03-14 16:23:42: Client instance created
+2019-03-14 16:23:42: Client instance created
+2019-03-14 16:23:42: Client thread has started
+2019-03-14 16:23:42: Client thread has started
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 2P|1|||21956|^SALIM ABDUL^RAHMAN|||U|||||||||||||||||^^^PAED  WD 1
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 3C|1
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 4O|1||^^          21956^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 5C|1
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 6R|1|^^^^WBC^1|10.09|10*3/uL||N||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 7R|2|^^^^RBC^1|3.86|10*6/uL||N||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 0R|3|^^^^HGB^1|9.1|g/dL||N||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 1R|4|^^^^HCT^1|27.3|%||N||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 2R|5|^^^^MCV^1|70.7|fL||L||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 3R|6|^^^^MCH^1|23.6|pg||L||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 4R|7|^^^^MCHC^1|33.3|g/dL||N||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 5R|8|^^^^PLT^1|698|10*3/uL||H||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 6R|9|^^^^RDW-SD^1|43.0|fL||N||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 7R|10|^^^^RDW-CV^1|17.8|%||H||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 0R|11|^^^^PDW^1|8.9|fL||L||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 1R|12|^^^^MPV^1|8.5|fL||L||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 2R|13|^^^^P-LCR^1|13.3|%||N||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 3R|14|^^^^PCT^1|0.59|%||H||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 4R|15|^^^^Anemia||||A||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 5R|16|^^^^Thrombocytosis||||A||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 6R|17|^^^^RBC_Agglutination?|50|||||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 7R|18|^^^^Turbidity/HGB_Interference?|90|||||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 0R|19|^^^^Iron_Deficiency?|90|||||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 1R|20|^^^^HGB_Defect?|80|||||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 2R|21|^^^^Fragments?|20|||||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 3R|22|^^^^PLT_Clumps(S)?|10|||||||||20190314162059
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 4R|23|^^^^Positive_Count||||A||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 5R|24|^^^^DIST_RBC|PNG&R&20190314&R&2019_03_14_16_20_21956_RBC.PNG|||N||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 6R|25|^^^^DIST_PLT|PNG&R&20190314&R&2019_03_14_16_20_21956_PLT.PNG|||N||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 7R|26|^^^^DIST_WBC|PNG&R&20190314&R&2019_03_14_16_20_21956_WBC.PNG|||N||||||20190314162059
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 0L|1|N
+2019-03-14 16:34:52: Message found in sending queue
+2019-03-14 16:34:52: sent successfully
+2019-03-14 16:34:52: New message recieved
+2019-03-14 16:34:52: 
+2019-03-14 16:34:54: 
+Results with Code: 21956 sent to BLIS sucessfully
+2019-03-14 16:34:54: Socket closed
+2019-03-14 16:34:54: Socket closed
+2019-03-14 16:34:54: SYSMEX XS-1000i handler stopped
+2019-03-14 16:34:54: SYSMEX XS-1000i handler started...
+2019-03-14 16:34:54: Starting Server socket on port 5150
+2019-03-14 16:34:54: Waiting for Equipment connection...
+2019-03-14 16:34:54: Listening on port 5150...
+2019-03-14 16:35:42: SYSMEX XS-1000i is now Connected...
+2019-03-14 16:35:42: Client instance created
+2019-03-14 16:35:42: Client instance created
+2019-03-14 16:35:42: Client thread has started
+2019-03-14 16:35:42: Client thread has started
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 2P|1|||21954|^SALIM ABDUL^RAHMAN|||U|||||||||||||||||^^^PAED-O.P.D
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 3C|1
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 4O|1||^^          21954^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 5C|1
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 6R|1|^^^^WBC^1|10.30|10*3/uL||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 7R|2|^^^^RBC^1|3.86|10*6/uL||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 0R|3|^^^^HGB^1|9.1|g/dL||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 1R|4|^^^^HCT^1|27.4|%||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 2R|5|^^^^MCV^1|71.0|fL||L||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 3R|6|^^^^MCH^1|23.6|pg||L||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 4R|7|^^^^MCHC^1|33.2|g/dL||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 5R|8|^^^^PLT^1|698|10*3/uL||H||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 6R|9|^^^^NEUT%^1|70.2|%||W||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 7R|10|^^^^LYMPH%^1|24.2|%||W||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 0R|11|^^^^MONO%^1|5.5|%||W||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 1R|12|^^^^EO%^1|0.0|%||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 2R|13|^^^^BASO%^1|0.1|%||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 3R|14|^^^^NEUT#^1|7.23|10*3/uL||W||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 4R|15|^^^^LYMPH#^1|2.49|10*3/uL||W||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 5R|16|^^^^MONO#^1|0.57|10*3/uL||W||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 6R|17|^^^^EO#^1|0.00|10*3/uL||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 7R|18|^^^^BASO#^1|0.01|10*3/uL||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 0R|19|^^^^RDW-SD^1|43.4|fL||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 1R|20|^^^^RDW-CV^1|17.9|%||H||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 2R|21|^^^^PDW^1|8.8|fL||L||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 3R|22|^^^^MPV^1|8.4|fL||L||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 4R|23|^^^^P-LCR^1|12.6|%||L||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 5R|24|^^^^PCT^1|0.59|%||H||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 6R|25|^^^^Anemia||||A||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 7R|26|^^^^Thrombocytosis||||A||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 0R|27|^^^^Blasts?|10|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 1R|28|^^^^Immature_Gran?|30|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 2R|29|^^^^Left_Shift?|60|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 3R|30|^^^^NRBC?|60|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 4R|31|^^^^Atypical_Lympho?|240|||A||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 5R|32|^^^^Abn_Lympho?|0|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 6R|33|^^^^RBC_Agglutination?|50|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 7R|34|^^^^Turbidity/HGB_Interference?|90|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 0R|35|^^^^Iron_Deficiency?|90|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 1R|36|^^^^HGB_Defect?|80|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 2R|37|^^^^Fragments?|20|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 3R|38|^^^^PLT_Clumps?|20|||||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 4R|39|^^^^Positive_Morph||||A||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 5R|40|^^^^Positive_Count||||A||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 6R|41|^^^^SCAT_DIFF|PNG&R&20190314&R&2019_03_14_16_33_21954_DIFF.PNG|||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 7R|42|^^^^DIST_RBC|PNG&R&20190314&R&2019_03_14_16_33_21954_RBC.PNG|||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 0R|43|^^^^DIST_PLT|PNG&R&20190314&R&2019_03_14_16_33_21954_PLT.PNG|||N||||||20190314163357
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 1L|1|N
+2019-03-14 16:37:06: Message found in sending queue
+2019-03-14 16:37:06: sent successfully
+2019-03-14 16:37:06: New message recieved
+2019-03-14 16:37:06: 
+2019-03-14 16:37:09: 
+Results with Code: 21954 sent to BLIS sucessfully
+2019-03-14 16:37:09: SYSMEX XS-1000i handler stopped
+2019-03-14 16:37:09: Socket closed
+2019-03-14 16:37:09: SYSMEX XS-1000i handler started...
+2019-03-14 16:37:09: Socket closed
+2019-03-14 16:37:09: Starting Server socket on port 5150
+2019-03-14 16:37:09: Waiting for Equipment connection...
+2019-03-14 16:37:09: Listening on port 5150...
+2019-03-14 16:37:42: SYSMEX XS-1000i is now Connected...
+2019-03-14 16:37:42: Client instance created
+2019-03-14 16:37:42: Client instance created
+2019-03-14 16:37:42: Client thread has started
+2019-03-14 16:37:42: Client thread has started
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 2P|1|||21975|^NAZZIWA ^JANET|||F|||||||||||||||||^^^ACCIDENT/EMMERGENCY
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 3C|1
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 4O|1||^^          21975^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 5C|1
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 6R|1|^^^^WBC^1|17.85|10*3/uL||H||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 7R|2|^^^^RBC^1|4.85|10*6/uL||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 0R|3|^^^^HGB^1|14.4|g/dL||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 1R|4|^^^^HCT^1|42.2|%||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 2R|5|^^^^MCV^1|87.0|fL||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 3R|6|^^^^MCH^1|29.7|pg||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 4R|7|^^^^MCHC^1|34.1|g/dL||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 5R|8|^^^^PLT^1|264|10*3/uL||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 6R|9|^^^^NEUT%^1|83.3|%||H||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 7R|10|^^^^LYMPH%^1|7.4|%||L||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 0R|11|^^^^MONO%^1|9.1|%||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 1R|12|^^^^EO%^1|0.1|%||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 2R|13|^^^^BASO%^1|0.1|%||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 3R|14|^^^^NEUT#^1|14.88|10*3/uL||H||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 4R|15|^^^^LYMPH#^1|1.32|10*3/uL||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 5R|16|^^^^MONO#^1|1.63|10*3/uL||H||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 6R|17|^^^^EO#^1|0.01|10*3/uL||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 7R|18|^^^^BASO#^1|0.01|10*3/uL||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 0R|19|^^^^RDW-SD^1|40.5|fL||N||||||20190314172315
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 1R|20|^^^^RDW-CV^1|13.0|%||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 2R|21|^^^^PDW^1|9.3|fL||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 3R|22|^^^^MPV^1|8.9|fL||L||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 4R|23|^^^^P-LCR^1|15.6|%||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 5R|24|^^^^PCT^1|0.23|%||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 6R|25|^^^^Neutrophilia||||A||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 7R|26|^^^^Monocytosis||||A||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 0R|27|^^^^Blasts?|0|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 1R|28|^^^^Immature_Gran?|60|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 2R|29|^^^^Left_Shift?|20|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 3R|30|^^^^NRBC?|30|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 4R|31|^^^^Atypical_Lympho?|40|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 5R|32|^^^^Abn_Lympho?|20|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 6R|33|^^^^RBC_Agglutination?|70|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 7R|34|^^^^Turbidity/HGB_Interference?|90|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 0R|35|^^^^Iron_Deficiency?|80|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 1R|36|^^^^HGB_Defect?|80|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 2R|37|^^^^Fragments?|0|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 3R|38|^^^^PLT_Clumps?|20|||||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 4R|39|^^^^Positive_Diff||||A||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 5R|40|^^^^SCAT_DIFF|PNG&R&20190314&R&2019_03_14_17_23_21975_DIFF.PNG|||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 6R|41|^^^^DIST_RBC|PNG&R&20190314&R&2019_03_14_17_23_21975_RBC.PNG|||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 7R|42|^^^^DIST_PLT|PNG&R&20190314&R&2019_03_14_17_23_21975_PLT.PNG|||N||||||20190314172315
+2019-03-14 17:23:57: Message found in sending queue
+2019-03-14 17:23:57: sent successfully
+2019-03-14 17:23:57: New message recieved
+2019-03-14 17:23:57: 0L|1|N
+2019-03-14 17:23:58: Message found in sending queue
+2019-03-14 17:23:58: sent successfully
+2019-03-14 17:23:58: New message recieved
+2019-03-14 17:23:58: 
+2019-03-14 17:24:01: 
+Results with Code: 21975 sent to BLIS sucessfully
+2019-03-14 17:24:01: Socket closed
+2019-03-14 17:24:01: Socket closed
+2019-03-14 17:24:01: SYSMEX XS-1000i handler stopped
+2019-03-14 17:24:01: SYSMEX XS-1000i handler started...
+2019-03-14 17:24:01: Starting Server socket on port 5150
+2019-03-14 17:24:01: Waiting for Equipment connection...
+2019-03-14 17:24:01: Listening on port 5150...
+2019-03-14 17:24:43: SYSMEX XS-1000i is now Connected...
+2019-03-14 17:24:43: Client instance created
+2019-03-14 17:24:43: Client instance created
+2019-03-14 17:24:43: Client thread has started
+2019-03-14 17:24:43: Client thread has started
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 2P|1|||21979|^BRAISON^MAYANJA|||U|||||||||||||||||^^^PAED  WD 1
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 3C|1
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 4O|1||^^          21979^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 5C|1
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 6R|1|^^^^WBC^1|8.86|10*3/uL||N||||||20190314180131
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 7R|2|^^^^RBC^1|4.64|10*6/uL||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 0R|3|^^^^HGB^1|10.3|g/dL||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 1R|4|^^^^HCT^1|30.3|%||N||||||20190314180131
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 2R|5|^^^^MCV^1|65.3|fL||L||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 3R|6|^^^^MCH^1|22.2|pg||L||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 4R|7|^^^^MCHC^1|34.0|g/dL||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 5R|8|^^^^PLT^1|265|10*3/uL||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 6R|9|^^^^NEUT%^1|25.0|%||W||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 7R|10|^^^^LYMPH%^1|57.1|%||W||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 0R|11|^^^^MONO%^1|14.1|%||W||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 1R|12|^^^^EO%^1|3.5|%||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 2R|13|^^^^BASO%^1|0.3|%||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 3R|14|^^^^NEUT#^1|2.21|10*3/uL||W||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 4R|15|^^^^LYMPH#^1|5.06|10*3/uL||W||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 5R|16|^^^^MONO#^1|1.25|10*3/uL||W||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 6R|17|^^^^EO#^1|0.31|10*3/uL||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 7R|18|^^^^BASO#^1|0.03|10*3/uL||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 0R|19|^^^^RDW-SD^1|43.9|fL||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 1R|20|^^^^RDW-CV^1|18.8|%||H||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 2R|21|^^^^PDW^1|10.8|fL||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 3R|22|^^^^MPV^1|9.7|fL||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 4R|23|^^^^P-LCR^1|23.1|%||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 5R|24|^^^^PCT^1|0.26|%||N||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 6R|25|^^^^Lymphocytosis||||A||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 7R|26|^^^^Monocytosis||||A||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 0R|27|^^^^Microcytosis||||A||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 1R|28|^^^^Blasts?|30|||||||||20190314180131
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 2R|29|^^^^Immature_Gran?|10|||||||||20190314180131
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 3R|30|^^^^Left_Shift?|0|||||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 4R|31|^^^^NRBC?|50|||||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:10: New message recieved
+2019-03-14 18:02:10: 5R|32|^^^^Atypical_Lympho?|280|||A||||||20190314180131
+2019-03-14 18:02:10: Message found in sending queue
+2019-03-14 18:02:10: sent successfully
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 6R|33|^^^^Abn_Lympho?|60|||||||||20190314180131
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 7R|34|^^^^RBC_Agglutination?|50|||||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 0R|35|^^^^Turbidity/HGB_Interference?|90|||||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 1R|36|^^^^Iron_Deficiency?|90|||||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 2R|37|^^^^HGB_Defect?|70|||||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 3R|38|^^^^Fragments?|20|||||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 4R|39|^^^^PLT_Clumps?|0|||||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 5R|40|^^^^Positive_Diff||||A||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 6R|41|^^^^Positive_Morph||||A||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 7R|42|^^^^SCAT_DIFF|PNG&R&20190314&R&2019_03_14_18_01_21979_DIFF.PNG|||N||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 0R|43|^^^^DIST_RBC|PNG&R&20190314&R&2019_03_14_18_01_21979_RBC.PNG|||N||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 1R|44|^^^^DIST_PLT|PNG&R&20190314&R&2019_03_14_18_01_21979_PLT.PNG|||N||||||20190314180131
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 2L|1|N
+2019-03-14 18:02:11: Message found in sending queue
+2019-03-14 18:02:11: sent successfully
+2019-03-14 18:02:11: New message recieved
+2019-03-14 18:02:11: 
+2019-03-14 18:02:14: 
+Results with Code: 21979 sent to BLIS sucessfully
+2019-03-14 18:02:14: SYSMEX XS-1000i handler stopped
+2019-03-14 18:02:14: Socket closed
+2019-03-14 18:02:14: Socket closed
+2019-03-14 18:02:14: SYSMEX XS-1000i handler started...
+2019-03-14 18:02:14: Starting Server socket on port 5150
+2019-03-14 18:02:14: Waiting for Equipment connection...
+2019-03-14 18:02:14: Listening on port 5150...
+2019-03-14 18:02:43: SYSMEX XS-1000i is now Connected...
+2019-03-14 18:02:43: Client instance created
+2019-03-14 18:02:43: Client instance created
+2019-03-14 18:02:43: Client thread has started
+2019-03-14 18:02:43: Client thread has started
+2019-03-14 18:14:30: New message recieved
+2019-03-14 18:14:30: 
+2019-03-14 18:14:30: Message found in sending queue
+2019-03-14 18:14:30: sent successfully
+2019-03-14 18:14:30: New message recieved
+2019-03-14 18:14:30: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2019-03-14 18:14:30: Message found in sending queue
+2019-03-14 18:14:30: New message recieved
+2019-03-14 18:14:30: 2P|1|||21939|^KABUZZA^K|||M|||||||||||||||||^^^O.P.D
+2019-03-14 18:14:30: sent successfully
+2019-03-14 18:14:30: Message found in sending queue
+2019-03-14 18:14:30: sent successfully
+2019-03-14 18:14:30: New message recieved
+2019-03-14 18:14:30: 3C|1
+2019-03-14 18:14:30: Message found in sending queue
+2019-03-14 18:14:30: New message recieved
+2019-03-14 18:14:30: 4O|1||^^          21939^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2019-03-14 18:14:30: sent successfully
+2019-03-14 18:14:30: Message found in sending queue
+2019-03-14 18:14:30: sent successfully
+2019-03-14 18:14:30: New message recieved
+2019-03-14 18:14:30: 5C|1
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 6R|1|^^^^WBC^1|7.49|10*3/uL||N||||||20190314181357
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 7R|2|^^^^RBC^1|4.78|10*6/uL||N||||||20190314181357
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 0R|3|^^^^HGB^1|9.7|g/dL||N||||||20190314181357
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 1R|4|^^^^HCT^1|31.0|%||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 2R|5|^^^^MCV^1|64.9|fL||L||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 3R|6|^^^^MCH^1|20.3|pg||L||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 4R|7|^^^^MCHC^1|31.3|g/dL||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 5R|8|^^^^PLT^1|261|10*3/uL||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 6R|9|^^^^NEUT%^1|16.7|%||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 7R|10|^^^^LYMPH%^1|61.4|%||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 0R|11|^^^^MONO%^1|16.7|%||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 1R|12|^^^^EO%^1|5.1|%||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 2R|13|^^^^BASO%^1|0.1|%||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 3R|14|^^^^NEUT#^1|1.25|10*3/uL||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 4R|15|^^^^LYMPH#^1|4.60|10*3/uL||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 5R|16|^^^^MONO#^1|1.25|10*3/uL||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 6R|17|^^^^EO#^1|0.38|10*3/uL||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 7R|18|^^^^BASO#^1|0.01|10*3/uL||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 0R|19|^^^^RDW-SD^1|52.4|fL||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 1R|20|^^^^RDW-CV^1|23.0|%||H||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 2R|21|^^^^PDW^1|14.2|fL||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 3R|22|^^^^MPV^1|9.7|fL||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 4R|23|^^^^P-LCR^1|24.7|%||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 5R|24|^^^^PCT^1|0.25|%||W||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 6R|25|^^^^Lymphocytosis||||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 7R|26|^^^^Monocytosis||||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 0R|27|^^^^Anisocytosis||||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 1R|28|^^^^Microcytosis||||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 2R|29|^^^^Anemia||||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 3R|30|^^^^PLT_Abn_Distribution||||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 4R|31|^^^^Blasts?|60|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 5R|32|^^^^Immature_Gran?|10|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 6R|33|^^^^Left_Shift?|0|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 7R|34|^^^^NRBC?|30|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 0R|35|^^^^Atypical_Lympho?|300|||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 1R|36|^^^^Abn_Lympho?|60|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 2R|37|^^^^RBC_Agglutination?|50|||||||||20190314181357
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 3R|38|^^^^Turbidity/HGB_Interference?|80|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 4R|39|^^^^Iron_Deficiency?|90|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 5R|40|^^^^HGB_Defect?|60|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 6R|41|^^^^Fragments?|80|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 7R|42|^^^^PLT_Clumps?|0|||||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 0R|43|^^^^Positive_Diff||||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 1R|44|^^^^Positive_Morph||||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 2R|45|^^^^Positive_Count||||A||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 3R|46|^^^^SCAT_DIFF|PNG&R&20190314&R&2019_03_14_18_13_21939_DIFF.PNG|||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 4R|47|^^^^DIST_RBC|PNG&R&20190314&R&2019_03_14_18_13_21939_RBC.PNG|||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 5R|48|^^^^DIST_PLT|PNG&R&20190314&R&2019_03_14_18_13_21939_PLT.PNG|||N||||||20190314181357
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 6L|1|N
+2019-03-14 18:14:31: Message found in sending queue
+2019-03-14 18:14:31: New message recieved
+2019-03-14 18:14:31: 
+2019-03-14 18:14:31: sent successfully
+2019-03-14 18:14:32: 
+Results with Code: 21939 sent to BLIS sucessfully
+2019-03-14 18:14:32: Socket closed
+2019-03-14 18:14:32: SYSMEX XS-1000i handler stopped
+2019-03-14 18:14:32: Socket closed
+2019-03-14 18:14:32: SYSMEX XS-1000i handler started...
+2019-03-14 18:14:32: Starting Server socket on port 5150
+2019-03-14 18:14:32: Waiting for Equipment connection...
+2019-03-14 18:14:32: Listening on port 5150...
+2019-03-14 18:14:44: SYSMEX XS-1000i is now Connected...
+2019-03-14 18:14:44: Client instance created
+2019-03-14 18:14:44: Client instance created
+2019-03-14 18:14:44: Client thread has started
+2019-03-14 18:14:44: Client thread has started
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 2P|1|||21939|^KABUZZA^K|||M|||||||||||||||||^^^O.P.D
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 3C|1
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 4O|1||^^          21939^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 5C|1
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 6R|1|^^^^WBC^1|7.49|10*3/uL||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 7R|2|^^^^RBC^1|4.78|10*6/uL||N||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 0R|3|^^^^HGB^1|9.7|g/dL||N||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 1R|4|^^^^HCT^1|31.0|%||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 2R|5|^^^^MCV^1|64.9|fL||L||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 3R|6|^^^^MCH^1|20.3|pg||L||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 4R|7|^^^^MCHC^1|31.3|g/dL||N||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 5R|8|^^^^PLT^1|261|10*3/uL||W||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 6R|9|^^^^NEUT%^1|16.7|%||W||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 7R|10|^^^^LYMPH%^1|61.4|%||W||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 0R|11|^^^^MONO%^1|16.7|%||W||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 1R|12|^^^^EO%^1|5.1|%||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 2R|13|^^^^BASO%^1|0.1|%||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 3R|14|^^^^NEUT#^1|1.25|10*3/uL||W||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 4R|15|^^^^LYMPH#^1|4.60|10*3/uL||W||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 5R|16|^^^^MONO#^1|1.25|10*3/uL||W||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 6R|17|^^^^EO#^1|0.38|10*3/uL||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 7R|18|^^^^BASO#^1|0.01|10*3/uL||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 0R|19|^^^^RDW-SD^1|52.4|fL||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 1R|20|^^^^RDW-CV^1|23.0|%||H||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 2R|21|^^^^PDW^1|14.2|fL||W||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 3R|22|^^^^MPV^1|9.7|fL||W||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 4R|23|^^^^P-LCR^1|24.7|%||W||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 5R|24|^^^^PCT^1|0.25|%||W||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 6R|25|^^^^Lymphocytosis||||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 7R|26|^^^^Monocytosis||||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 0R|27|^^^^Anisocytosis||||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 1R|28|^^^^Microcytosis||||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 2R|29|^^^^Anemia||||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 3R|30|^^^^PLT_Abn_Distribution||||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 4R|31|^^^^Blasts?|60|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 5R|32|^^^^Immature_Gran?|10|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 6R|33|^^^^Left_Shift?|0|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 7R|34|^^^^NRBC?|30|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 0R|35|^^^^Atypical_Lympho?|300|||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 1R|36|^^^^Abn_Lympho?|60|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 2R|37|^^^^RBC_Agglutination?|50|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 3R|38|^^^^Turbidity/HGB_Interference?|80|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 4R|39|^^^^Iron_Deficiency?|90|||||||||20190314181357
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 5R|40|^^^^HGB_Defect?|60|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 6R|41|^^^^Fragments?|80|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 7R|42|^^^^PLT_Clumps?|0|||||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 0R|43|^^^^Positive_Diff||||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 1R|44|^^^^Positive_Morph||||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 2R|45|^^^^Positive_Count||||A||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 3R|46|^^^^SCAT_DIFF|PNG&R&20190314&R&2019_03_14_18_13_21939_DIFF.PNG|||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 4R|47|^^^^DIST_RBC|PNG&R&20190314&R&2019_03_14_18_13_21939_RBC.PNG|||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 5R|48|^^^^DIST_PLT|PNG&R&20190314&R&2019_03_14_18_13_21939_PLT.PNG|||N||||||20190314181357
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 6L|1|N
+2019-03-14 18:15:20: Message found in sending queue
+2019-03-14 18:15:20: sent successfully
+2019-03-14 18:15:20: New message recieved
+2019-03-14 18:15:20: 
+2019-03-14 18:15:21: 
+Results with Code: 21939 sent to BLIS sucessfully
+2019-03-14 18:15:21: Socket closed
+2019-03-14 18:15:21: SYSMEX XS-1000i handler stopped
+2019-03-14 18:15:21: Socket closed
+2019-03-14 18:15:21: SYSMEX XS-1000i handler started...
+2019-03-14 18:15:21: Starting Server socket on port 5150
+2019-03-14 18:15:21: Waiting for Equipment connection...
+2019-03-14 18:15:21: Listening on port 5150...
+2019-03-14 18:15:44: SYSMEX XS-1000i is now Connected...
+2019-03-14 18:15:44: Client instance created
+2019-03-14 18:15:44: Client instance created
+2019-03-14 18:15:44: Client thread has started
+2019-03-14 18:15:44: Client thread has started
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 2P|1|||21938|^KABUZZA^K|||M|||||||||||||||||^^^O.P.D
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 3C|1
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 4O|1||^^          21938^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 5C|1
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 6R|1|^^^^WBC^1|7.74|10*3/uL||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 7R|2|^^^^RBC^1|4.79|10*6/uL||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 0R|3|^^^^HGB^1|9.6|g/dL||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 1R|4|^^^^HCT^1|31.0|%||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 2R|5|^^^^MCV^1|64.7|fL||L||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 3R|6|^^^^MCH^1|20.0|pg||L||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 4R|7|^^^^MCHC^1|31.0|g/dL||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 5R|8|^^^^PLT^1|266|10*3/uL||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 6R|9|^^^^NEUT%^1|16.6|%||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 7R|10|^^^^LYMPH%^1|62.0|%||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 0R|11|^^^^MONO%^1|16.5|%||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 1R|12|^^^^EO%^1|4.8|%||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 2R|13|^^^^BASO%^1|0.1|%||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 3R|14|^^^^NEUT#^1|1.28|10*3/uL||W||||||20190314181850
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 4R|15|^^^^LYMPH#^1|4.80|10*3/uL||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 5R|16|^^^^MONO#^1|1.28|10*3/uL||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 6R|17|^^^^EO#^1|0.37|10*3/uL||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 7R|18|^^^^BASO#^1|0.01|10*3/uL||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 0R|19|^^^^RDW-SD^1|52.6|fL||N||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 1R|20|^^^^RDW-CV^1|23.0|%||H||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 2R|21|^^^^PDW^1|11.1|fL||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 3R|22|^^^^MPV^1|9.5|fL||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 4R|23|^^^^P-LCR^1|22.1|%||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 5R|24|^^^^PCT^1|0.25|%||W||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 6R|25|^^^^Lymphocytosis||||A||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 7R|26|^^^^Monocytosis||||A||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 0R|27|^^^^Anisocytosis||||A||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 1R|28|^^^^Microcytosis||||A||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 2R|29|^^^^Anemia||||A||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 3R|30|^^^^PLT_Abn_Distribution||||A||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 4R|31|^^^^Blasts?|50|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 5R|32|^^^^Immature_Gran?|10|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 6R|33|^^^^Left_Shift?|0|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 7R|34|^^^^NRBC?|60|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 0R|35|^^^^Atypical_Lympho?|300|||A||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 1R|36|^^^^Abn_Lympho?|50|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 2R|37|^^^^RBC_Agglutination?|50|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 3R|38|^^^^Turbidity/HGB_Interference?|80|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 4R|39|^^^^Iron_Deficiency?|100|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 5R|40|^^^^HGB_Defect?|60|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 6R|41|^^^^Fragments?|60|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 7R|42|^^^^PLT_Clumps?|0|||||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 0R|43|^^^^Positive_Diff||||A||||||20190314181850
+2019-03-14 18:19:04: Message found in sending queue
+2019-03-14 18:19:04: New message recieved
+2019-03-14 18:19:04: 1R|44|^^^^Positive_Morph||||A||||||20190314181850
+2019-03-14 18:19:04: sent successfully
+2019-03-14 18:19:05: Message found in sending queue
+2019-03-14 18:19:05: sent successfully
+2019-03-14 18:19:05: New message recieved
+2019-03-14 18:19:05: 2R|45|^^^^Positive_Count||||A||||||20190314181850
+2019-03-14 18:19:05: Message found in sending queue
+2019-03-14 18:19:05: sent successfully
+2019-03-14 18:19:05: New message recieved
+2019-03-14 18:19:05: 3R|46|^^^^SCAT_DIFF|PNG&R&20190314&R&2019_03_14_18_18_21938_DIFF.PNG|||N||||||20190314181850
+2019-03-14 18:19:05: Message found in sending queue
+2019-03-14 18:19:05: sent successfully
+2019-03-14 18:19:05: New message recieved
+2019-03-14 18:19:05: 4R|47|^^^^DIST_RBC|PNG&R&20190314&R&2019_03_14_18_18_21938_RBC.PNG|||N||||||20190314181850
+2019-03-14 18:19:05: Message found in sending queue
+2019-03-14 18:19:05: sent successfully
+2019-03-14 18:19:05: New message recieved
+2019-03-14 18:19:05: 5R|48|^^^^DIST_PLT|PNG&R&20190314&R&2019_03_14_18_18_21938_PLT.PNG|||N||||||20190314181850
+2019-03-14 18:19:05: Message found in sending queue
+2019-03-14 18:19:05: sent successfully
+2019-03-14 18:19:05: New message recieved
+2019-03-14 18:19:05: 6L|1|N
+2019-03-14 18:19:05: Message found in sending queue
+2019-03-14 18:19:05: sent successfully
+2019-03-14 18:19:05: New message recieved
+2019-03-14 18:19:05: 
+2019-03-14 18:19:08: 
+Results with Code: 21938 sent to BLIS sucessfully
+2019-03-14 18:19:08: Socket closed
+2019-03-14 18:19:08: Socket closed
+2019-03-14 18:19:08: SYSMEX XS-1000i handler stopped
+2019-03-14 18:19:08: SYSMEX XS-1000i handler started...
+2019-03-14 18:19:08: Starting Server socket on port 5150
+2019-03-14 18:19:08: Waiting for Equipment connection...
+2019-03-14 18:19:08: Listening on port 5150...
+2019-03-14 18:19:44: SYSMEX XS-1000i is now Connected...
+2019-03-14 18:19:44: Client instance created
+2019-03-14 18:19:44: Client instance created
+2019-03-14 18:19:44: Client thread has started
+2019-03-14 18:19:44: Client thread has started

@@ -1,0 +1,577 @@
+2018-01-10 09:48:36: SYSMEX XS-1000i handler started...
+2018-01-10 09:48:36: Starting Server socket on port 5150
+2018-01-10 09:48:36: Waiting for Equipment connection...
+2018-01-10 09:48:36: Listening on port 5150...
+2018-01-10 09:52:16: SYSMEX XS-1000i handler started...
+2018-01-10 09:52:16: Starting Server socket on port 5150
+2018-01-10 09:52:17: Waiting for Equipment connection...
+2018-01-10 09:52:17: Listening on port 5150...
+2018-01-10 09:55:09: SYSMEX XS-1000i handler started...
+2018-01-10 09:55:09: Starting Server socket on port 5150
+2018-01-10 09:55:09: Waiting for Equipment connection...
+2018-01-10 09:55:09: Listening on port 5150...
+2018-01-10 09:56:17: SYSMEX XS-1000i is now Connected...
+2018-01-10 09:56:18: Client instance created
+2018-01-10 09:56:18: Client instance created
+2018-01-10 09:56:18: Client thread has started
+2018-01-10 09:56:18: Client thread has started
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 2P|1|||2182/10/17/OPD|^KITUNZI JOVAN|||F|||||||||||||||||^^^O.P.D
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 3C|1
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 4O|1||^^             16^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 5C|1
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 6R|1|^^^^WBC^1|6.13|10*3/uL||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 7R|2|^^^^RBC^1|4.78|10*6/uL||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 0R|3|^^^^HGB^1|12.2|g/dL||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 1R|4|^^^^HCT^1|36.9|%||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 2R|5|^^^^MCV^1|77.2|fL||L||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 3R|6|^^^^MCH^1|25.5|pg||L||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 4R|7|^^^^MCHC^1|33.1|g/dL||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 5R|8|^^^^PLT^1|364|10*3/uL||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 6R|9|^^^^NEUT%^1|33.3|%||W||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 7R|10|^^^^LYMPH%^1|50.6|%||W||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 0R|11|^^^^MONO%^1|8.2|%||W||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 1R|12|^^^^EO%^1|7.2|%||H||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 2R|13|^^^^BASO%^1|0.7|%||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 3R|14|^^^^NEUT#^1|2.05|10*3/uL||W||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 4R|15|^^^^LYMPH#^1|3.10|10*3/uL||W||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 5R|16|^^^^MONO#^1|0.50|10*3/uL||W||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 6R|17|^^^^EO#^1|0.44|10*3/uL||H||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 7R|18|^^^^BASO#^1|0.04|10*3/uL||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 0R|19|^^^^RDW-SD^1|38.8|fL||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 1R|20|^^^^RDW-CV^1|14.3|%||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 2R|21|^^^^PDW^1|9.6|fL||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 3R|22|^^^^MPV^1|9.2|fL||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 4R|23|^^^^P-LCR^1|17.9|%||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 5R|24|^^^^PCT^1|0.33|%||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 6R|25|^^^^Blasts?|120|||A||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 7R|26|^^^^Immature_Gran?|20|||||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 0R|27|^^^^Left_Shift?|10|||||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 1R|28|^^^^NRBC?|10|||||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 2R|29|^^^^RBC_Agglutination?|60|||||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 3R|30|^^^^Turbidity/HGB_Interference?|90|||||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 4R|31|^^^^Iron_Deficiency?|90|||||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 5R|32|^^^^HGB_Defect?|90|||||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 6R|33|^^^^Fragments?|0|||||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 7R|34|^^^^PLT_Clumps?|10|||||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 0R|35|^^^^Positive_Morph||||A||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 1R|36|^^^^SCAT_DIFF|PNG&R&20180110&R&2017_10_24_10_18_16_DIFF.PNG|||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 2R|37|^^^^DIST_RBC|PNG&R&20180110&R&2017_10_24_10_18_16_RBC.PNG|||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 3R|38|^^^^DIST_PLT|PNG&R&20180110&R&2017_10_24_10_18_16_PLT.PNG|||N||||||20171024101826
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 4L|1|N
+2018-01-10 09:56:48: Message found in sending queue
+2018-01-10 09:56:48: sent successfully
+2018-01-10 09:56:48: New message recieved
+2018-01-10 09:56:48: 
+2018-01-10 09:56:50: 
+Results with Code: 2182/10/17/OPD sent to BLIS sucessfully
+2018-01-10 09:56:50: SYSMEX XS-1000i handler stopped
+2018-01-10 09:56:50: Socket closed
+2018-01-10 09:56:50: Socket closed
+2018-01-10 09:56:50: SYSMEX XS-1000i handler started...
+2018-01-10 09:56:50: Starting Server socket on port 5150
+2018-01-10 09:56:50: Waiting for Equipment connection...
+2018-01-10 09:56:50: Listening on port 5150...
+2018-01-10 09:57:18: SYSMEX XS-1000i is now Connected...
+2018-01-10 09:57:18: Client instance created
+2018-01-10 09:57:18: Client instance created
+2018-01-10 09:57:18: Client thread has started
+2018-01-10 09:57:18: Client thread has started
+2018-01-10 10:38:35: SYSMEX XS-1000i handler started...
+2018-01-10 10:38:35: Starting Server socket on port 5150
+2018-01-10 10:38:35: Waiting for Equipment connection...
+2018-01-10 10:38:35: Listening on port 5150...
+2018-01-10 10:38:49: SYSMEX XS-1000i is now Connected...
+2018-01-10 10:38:49: Client instance created
+2018-01-10 10:38:49: Client instance created
+2018-01-10 10:38:49: Client thread has started
+2018-01-10 10:38:49: Client thread has started
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 2P|1
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 3C|1
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 4O|1||^^BACKGROUNDCHECK^A|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 5C|1
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 6R|1|^^^^WBC|0.00|10*3/uL||N||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 7R|2|^^^^RBC|0.00|10*6/uL||N||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 0R|3|^^^^HGB|0.1|g/dL||N||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 1R|4|^^^^HCT|0.0|%||N||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 2R|5|^^^^MCV|----|fL||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 3R|6|^^^^MCH|----|pg||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 4R|7|^^^^MCHC|----|g/dL||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 5R|8|^^^^PLT|0|10*3/uL||N||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 6R|9|^^^^NEUT%|----|%||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 7R|10|^^^^LYMPH%|----|%||A||||||20171201072402
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 0R|11|^^^^MONO%|----|%||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 1R|12|^^^^EO%|----|%||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 2R|13|^^^^BASO%|----|%||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 3R|14|^^^^NEUT#|----|10*3/uL||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 4R|15|^^^^LYMPH#|----|10*3/uL||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 5R|16|^^^^MONO#|----|10*3/uL||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 6R|17|^^^^EO#|----|10*3/uL||A||||||20171201072402
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 7R|18|^^^^BASO#|----|10*3/uL||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 0R|19|^^^^RDW-SD|----|fL||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 1R|20|^^^^RDW-CV|----|%||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 2R|21|^^^^PDW|----|fL||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 3R|22|^^^^MPV|----|fL||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 4R|23|^^^^P-LCR|----|%||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 5R|24|^^^^PCT|----|%||A||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 6R|25|^^^^SCAT_DIFF|PNG&R&20180110&R&2017_12_01_07_24_BACKGROUNDCHECK_DIFF.PNG|||N||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 7R|26|^^^^DIST_RBC|PNG&R&20180110&R&2017_12_01_07_24_BACKGROUNDCHECK_RBC.PNG|||N||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 0R|27|^^^^DIST_PLT|PNG&R&20180110&R&2017_12_01_07_24_BACKGROUNDCHECK_PLT.PNG|||N||||||20171201072402
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 1L|1|N
+2018-01-10 10:42:07: Message found in sending queue
+2018-01-10 10:42:07: New message recieved
+2018-01-10 10:42:07: 
+2018-01-10 10:42:07: sent successfully
+2018-01-10 10:42:07: QC or BACKGROUND CHECK information Skipped
+2018-01-10 10:42:07: SYSMEX XS-1000i handler stopped
+2018-01-10 10:42:07: SYSMEX XS-1000i handler started...
+2018-01-10 10:42:07: Starting Server socket on port 5150
+2018-01-10 10:42:07: Waiting for Equipment connection...
+2018-01-10 10:42:07: Listening on port 5150...
+2018-01-10 10:42:07: Socket closed
+2018-01-10 10:42:07: Socket closed
+2018-01-10 10:42:47: SYSMEX XS-1000i is now Connected...
+2018-01-10 10:42:47: Client instance created
+2018-01-10 10:42:47: Client instance created
+2018-01-10 10:42:47: Client thread has started
+2018-01-10 10:42:47: Client thread has started
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 1H|\^&|||XS^00-20^69685^^^^05342311||||||||E1394-97
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 2P|1|||2179/10/17/OPD|^NANTEZA AISHA|||U
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 3C|1
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 4O|1||^^             20^M|^^^^WBC\^^^^RBC\^^^^HGB\^^^^HCT\^^^^MCV\^^^^MCH\^^^^MCHC\^^^^PLT\^^^^NEUT%\^^^^LYMPH%\^^^^MONO%\^^^^EO%\^^^^BASO%\^^^^NEUT#\^^^^LYMPH#\^^^^MONO#\^^^^EO#\^^^^BASO#\^^^^RDW-SD\^^^^RDW-CV\^^^^PDW\^^^^MPV\^^^^P-LCR\^^^^PCT|||||||N||||||||||||||F
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 5C|1
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 6R|1|^^^^WBC^1|6.37|10*3/uL||N||||||20171024102821
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 7R|2|^^^^RBC^1|4.73|10*6/uL||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 0R|3|^^^^HGB^1|13.9|g/dL||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 1R|4|^^^^HCT^1|41.5|%||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 2R|5|^^^^MCV^1|87.7|fL||N||||||20171024102821
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 3R|6|^^^^MCH^1|29.4|pg||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 4R|7|^^^^MCHC^1|33.5|g/dL||N||||||20171024102821
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 5R|8|^^^^PLT^1|152|10*3/uL||N||||||20171024102821
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 6R|9|^^^^NEUT%^1|56.0|%||W||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 7R|10|^^^^LYMPH%^1|35.3|%||W||||||20171024102821
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 0R|11|^^^^MONO%^1|7.2|%||W||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 1R|12|^^^^EO%^1|1.3|%||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 2R|13|^^^^BASO%^1|0.2|%||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 3R|14|^^^^NEUT#^1|3.57|10*3/uL||W||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 4R|15|^^^^LYMPH#^1|2.25|10*3/uL||W||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 5R|16|^^^^MONO#^1|0.46|10*3/uL||W||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 6R|17|^^^^EO#^1|0.08|10*3/uL||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 7R|18|^^^^BASO#^1|0.01|10*3/uL||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 0R|19|^^^^RDW-SD^1|41.8|fL||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 1R|20|^^^^RDW-CV^1|13.3|%||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 2R|21|^^^^PDW^1|14.6|fL||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 3R|22|^^^^MPV^1|11.8|fL||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 4R|23|^^^^P-LCR^1|38.6|%||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 5R|24|^^^^PCT^1|0.18|%||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 6R|25|^^^^Blasts?|80|||||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 7R|26|^^^^Immature_Gran?|20|||||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 0R|27|^^^^Left_Shift?|60|||||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 1R|28|^^^^NRBC?|0|||||||||20171024102821
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 2R|29|^^^^Atypical_Lympho?|280|||A||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 3R|30|^^^^Abn_Lympho?|10|||||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 4R|31|^^^^RBC_Agglutination?|70|||||||||20171024102821
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 5R|32|^^^^Turbidity/HGB_Interference?|90|||||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 6R|33|^^^^Iron_Deficiency?|80|||||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 7R|34|^^^^HGB_Defect?|80|||||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 0R|35|^^^^Fragments?|0|||||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 1R|36|^^^^PLT_Clumps?|10|||||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 2R|37|^^^^Positive_Morph||||A||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 3R|38|^^^^SCAT_DIFF|PNG&R&20180110&R&2017_10_24_10_28_20_DIFF.PNG|||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 4R|39|^^^^DIST_RBC|PNG&R&20180110&R&2017_10_24_10_28_20_RBC.PNG|||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 5R|40|^^^^DIST_PLT|PNG&R&20180110&R&2017_10_24_10_28_20_PLT.PNG|||N||||||20171024102821
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 6L|1|N
+2018-01-10 10:48:35: Message found in sending queue
+2018-01-10 10:48:35: New message recieved
+2018-01-10 10:48:35: 
+2018-01-10 10:48:35: sent successfully
+2018-01-10 10:48:36: 
+Results with Code: 2179/10/17/OPD sent to BLIS sucessfully
+2018-01-10 10:48:36: Socket closed
+2018-01-10 10:48:36: SYSMEX XS-1000i handler stopped
+2018-01-10 10:48:36: Socket closed
+2018-01-10 10:48:36: SYSMEX XS-1000i handler started...
+2018-01-10 10:48:36: Starting Server socket on port 5150
+2018-01-10 10:48:36: Waiting for Equipment connection...
+2018-01-10 10:48:36: Listening on port 5150...
+2018-01-10 10:48:47: SYSMEX XS-1000i is now Connected...
+2018-01-10 10:48:47: Client instance created
+2018-01-10 10:48:47: Client instance created
+2018-01-10 10:48:47: Client thread has started
+2018-01-10 10:48:47: Client thread has started
